@@ -1,0 +1,9 @@
+bs4
+requests
+pandas
+numpy
+stocksymbol
+pathlib
+reticker
+GoogleNews
+gnewsclient
